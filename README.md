@@ -3,7 +3,7 @@
 
 ### 效果图
 
-![image](https://github.com/github1434053206/d3.js-TreeDiagram/tree/master/img/pic.PNG)
+![Image text](https://github.com/github1434053206/d3.js-TreeDiagram/blob/master/img/pic.PNG)
 
 ### 使用方法:
 
