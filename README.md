@@ -3,7 +3,7 @@
 
 ### 效果图
 
-![pic](C:\Users\Administrator\Desktop\pic.PNG)
+![image](https://github.com/github1434053206/d3.js-TreeDiagram/tree/master/img/pic.png)
 
 ### 使用方法:
 
